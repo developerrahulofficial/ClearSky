@@ -80,3 +80,6 @@ https://github.com/beltoforion/stellarium-to-video/assets/2202567/baee9422-7594-
 This project would not be possible without [Stellarium](https://stellarium.org)! It is a fantastic program that is also open source and free to use! Special thanks to 
 the people behind who created and maintain it. This script is also using [Skyfield](https://rhodesmill.org/skyfield/) for computing sunset times. Skyfield is great and 
 does so much more than mere sunset computations on earth and finally I'd like to thank the makers of ffmpeg and VLC.
+
+# Open source contribution
+From: Anuraj Venkatpurwar.
